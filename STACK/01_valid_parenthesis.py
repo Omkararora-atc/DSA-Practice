@@ -5,7 +5,7 @@ def is_balanced(s):
         if x in('(','{','['):
             stack.append(x)
         else:
-            if  not s:
+            if  not stack:
                 return False
             elif is_matching(stack[-1],x)==False:
                 return False
