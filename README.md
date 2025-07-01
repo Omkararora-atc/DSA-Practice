@@ -1,7 +1,7 @@
 <h1 align="center">🚀 DSA Practice Repository 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++%20%7C%20Java%20%7C%20Python-blue.svg?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/Problems-Solved-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square"/>
 </p>
